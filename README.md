@@ -26,7 +26,7 @@ A student productivity dashboard with useful tools for organizing academic tasks
 
 ### 🔇 Silence Project
 A civic-tech inspired project focused on monitoring and visualizing noise/silence levels.  
-**Tech:** HTML, CSS, JavaScript
+**Tech:** Django Python HTML, CSS, JavaScript
 
 ### 🖥️ OS Lab
 An interactive operating-system lab project with algorithm visualizations and learning modules.  
