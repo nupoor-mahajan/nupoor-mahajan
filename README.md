@@ -16,12 +16,12 @@ My personal portfolio showcasing my projects, skills, and frontend work.
 
 ### 💸 Split-It
 A modern expense-splitting app for tracking shared expenses and simplifying group payments.  
-**Tech:** TypeScript, React, Tailwind CSS
+**Tech:** TypeScript, React, Tailwind CSS <br>
 🔗 [Visit Live](https://split-it-sigma.vercel.app/)
 
 ### 📊 StudyDash
 A student productivity dashboard with useful tools for organizing academic tasks and progress.  
-**Tech:** TypeScript, React, Firebase
+**Tech:** TypeScript, React, Firebase <br>
 🔗 [Visit Live](https://studydash-one.vercel.app/login)
 
 ### 🔇 Silence Project
@@ -30,7 +30,7 @@ A civic-tech inspired project focused on monitoring and visualizing noise/silenc
 
 ### 🖥️ OS Lab
 An interactive operating-system lab project with algorithm visualizations and learning modules.  
-**Tech:** JavaScript, HTML, CSS
+**Tech:** JavaScript, HTML, CSS <br>
 🔗 [Visit Site](https://nupoor-mahajan.github.io/OSlab/)
 
 ### 🎨 Frontend Projects
