@@ -33,6 +33,11 @@ An interactive operating-system lab project with algorithm visualizations and le
 **Tech:** JavaScript, HTML, CSS <br>
 🔗 [Visit Site](https://nupoor-mahajan.github.io/OSlab/)
 
+### 🧭 ToolWise AI
+A static AI tools directory and task-based recommender that helps users find useful AI tools for study, coding, research, design, presentations, resumes, and project planning.  
+**Tech:** JavaScript, HTML, CSS, LocalStorage <br>
+🔗 [Visit Site](https://nupoor-mahajan.github.io/ToolWise/)  
+
 ### 🎨 Frontend Projects
 A collection of frontend mini-projects built to practice UI design, layouts, and interactivity.  
 **Tech:** JavaScript, HTML, CSS
