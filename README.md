@@ -38,13 +38,14 @@ A static AI tools directory and task-based recommender that helps users find use
 **Tech:** JavaScript, HTML, CSS, LocalStorage <br>
 🔗 [Visit Site](https://nupoor-mahajan.github.io/ToolWise/)  
 
+### 🧠 OpsMind AI  
+An AI-powered enterprise knowledge assistant built using Retrieval-Augmented Generation (RAG) to transform static SOPs and PDFs into an intelligent, searchable knowledge system with semantic retrieval and context-aware AI responses.  
+**Tech Stack:** React.js, Node.js, MongoDB Atlas Vector Search, Google Gemini Embeddings  
+🔗 [Visit Site](https://opsmind-ai-wjwh.vercel.app/)
+
 ### 🎨 Frontend Projects
 A collection of frontend mini-projects built to practice UI design, layouts, and interactivity.  
 **Tech:** JavaScript, HTML, CSS
-
-### 🧠 OpsMind AI
-A context-aware corporate knowledge assistant project focused on SOP search and AI-based answers.  
-**Status:** Private collaboration work / Coming soon
 
 ### 🛡️ GitGuard
 A GitHub-focused project built to help analyze repositories and support safer, cleaner development workflows.  
