@@ -54,7 +54,7 @@ A GitHub-focused project built to help analyze repositories and support safer, c
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nupoor-mahajan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nupoor-mahajan&theme=github_dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.vercel.app?user=nupoor-mahajan&theme=github-dark-blue)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nupoor-mahajan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
