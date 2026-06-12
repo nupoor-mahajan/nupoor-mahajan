@@ -1,16 +1,12 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Nupoor%20Mahajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Hackathon%20Builder&descAlignY=55"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hi 👋, I'm Nupoor Mahajan</h1>
-
-<h3 align="center">
-Full-Stack Developer • AI Enthusiast • Hackathon Builder
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Full-Stack+Developer;Hackathon+Enthusiast;Turning+Ideas+Into+Impactful+Solutions" />
@@ -79,16 +75,6 @@ AI-powered programming reasoning system that helps students identify logical mis
 * Execution Visualization
 * AI Learning Assistant
 * Personalized Feedback
-
----
-
-## 🤝 IntellMeet
-
-Enterprise collaboration platform combining AI assistance, meetings, real-time communication, and productivity tools.
-
-### Stack
-
-React • TypeScript • Node.js • MongoDB • Socket.IO • WebRTC
 
 ---
 
@@ -165,14 +151,6 @@ Student productivity dashboard for academic planning and progress tracking.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nupoor-mahajan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 # 🐍 Contribution Graph
 
 <p align="center">
@@ -188,3 +166,7 @@ Student productivity dashboard for academic planning and progress tracking.
 ---
 
 ⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+</p>
