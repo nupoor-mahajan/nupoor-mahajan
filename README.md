@@ -146,7 +146,7 @@ Student productivity dashboard for academic planning and progress tracking.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupoor-mahajan&layout=compact&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nupoor-mahajan&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nupoor-mahajan&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
