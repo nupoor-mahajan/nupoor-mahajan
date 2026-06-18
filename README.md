@@ -108,6 +108,17 @@ Expense management platform simplifying group expenses and settlements.
 
 ---
 
+## 🛒 InsightCart
+
+AI-powered sentiment analysis platform that classifies Amazon customer reviews and compares Machine Learning with Deep Learning models.
+
+### Stack
+
+React • Streamlit • Python • TensorFlow • XGBoost • Random Forest • MLflow
+
+🔗 https://aicw-insightcart.streamlit.app/
+---
+
 ## 📊 StudyDash
 
 Student productivity dashboard for academic planning and progress tracking.
@@ -115,7 +126,6 @@ Student productivity dashboard for academic planning and progress tracking.
 🔗 https://studydash-one.vercel.app/
 
 ---
-
 # 💻 Tech Stack
 
 <p align="center">
