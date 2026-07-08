@@ -150,13 +150,13 @@ Student productivity dashboard for academic planning and progress tracking.
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nupoor-mahajan&show_icons=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nupoor-mahajan&theme=github-dark" />
-</p>
+<!-- <p align="center">
+  <img width="100%" src="https://metrics.lecoq.io/nupoor-mahajan?template=classic&config.timezone=Asia%2FKolkata" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=nupoor-mahajan&theme=github-dark" />
+</p> -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupoor-mahajan&layout=compact&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupoor-mahajan&theme=github_dark" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nupoor-mahajan&theme=github_dark&utcOffset=5.5" />
 </p>
 
