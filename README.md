@@ -1,183 +1,204 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Nupoor%20Mahajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Hackathon%20Builder&descAlignY=55"/>
-</p>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I'm Nupoor Mahajan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Full-Stack+Developer;Hackathon+Enthusiast;Turning+Ideas+Into+Impactful+Solutions" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,50:4F46E5,100:06B6D4&text=Nupoor%20Mahajan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Design&descAlignY=56"
+    alt="Nupoor Mahajan"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nupoor-mahajan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+intelligent+and+thoughtful+products;Turning+everyday+problems+into+working+tools;Exploring+frontend%2C+AI%2FML+and+product+design"
+    alt="Typing introduction"
+  />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nupoor-mahajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:nupoormahajan06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://instagram.com/nups_04_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
   <a href="https://nupoor-mahajan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nupoor-mahajan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nupoormahajan06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 🌈 About Me
 
-🚀 Full-Stack Developer passionate about building intelligent products that combine technology, design, and real-world impact.
+I’m a Computer Engineering student from Mumbai who enjoys turning complex ideas into thoughtful, usable products.
 
-🔭 Currently building AI-powered web applications and developer tools
+My work sits at the intersection of **frontend engineering**, **applied AI/ML** and **product design**. I’m especially interested in intelligent interfaces, developer tools and technology that solves practical problems.
 
-🌱 Learning Advanced MERN, Machine Learning, AI Systems, and Scalable Architectures
-
-🤝 Open to collaborating on AI, Full-Stack, Open Source, and Hackathon Projects
-
-🎯 Interested in EdTech, Accessibility, Productivity, Developer Experience, and Human-Centered Design
-
-⚡ I enjoy transforming ambitious ideas into polished products people genuinely enjoy using.
+- 🔭 Building full-stack and AI-powered products
+- 🎨 Exploring product design and human-centred interfaces
+- 🧠 Learning machine learning and scalable system design
+- 🛠️ Creating small tools for problems I encounter in everyday life
+- 🤝 Open to internships, collaborations and open-source opportunities
 
 ---
 
-# 🎯 Current Focus
+## ✨ Selected Projects
 
-* 🧠 AI-Powered Learning Systems
-* 🤖 Generative AI & RAG Applications
-* 🌐 Full-Stack Product Development
-* ⚙️ Scalable Backend Systems
-* 🏆 Hackathons & Innovation Challenges
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [InsightCart](https://github.com/nupoor-mahajan/InsightCart)
+
+NLP-powered analytics platform that classifies e-commerce reviews and compares machine-learning and deep-learning approaches.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[**View repository →**](https://github.com/nupoor-mahajan/InsightCart)  
+[**Try live application →**](https://aicw-insightcart.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [Split It](https://github.com/nupoor-mahajan/split-it)
+
+Mobile-first bill-splitting application with itemised expenses, shared trips and transaction-minimised settlements.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+[**View repository →**](https://github.com/nupoor-mahajan/split-it)  
+[**Try live application →**](https://split-it-sigma.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [StudyDash](https://github.com/nupoor-mahajan/studydash)
+
+Student productivity dashboard for organising coursework, deadlines and academic progress.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[**View repository →**](https://github.com/nupoor-mahajan/studydash)  
+[**Try live application →**](https://studydash-one.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Nupoor Lab
+
+A growing collection of small, useful and playful experiments—including a hackathon tracker, desktop task widget and interactive desktop pet.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Growing-EC4899?style=flat-square)
+
+**Repository coming soon**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔮 Currently Building
+
+### 🧠 LogicLens
+
+An AI-powered programming reasoning system that helps learners understand logical mistakes instead of merely displaying compiler errors.
+
+`Reasoning analysis` · `Execution visualisation` · `Personalised feedback`
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> Public repository and technical case study coming soon.
 
 ---
 
-# 🚀 Featured Projects
+## 🧰 Technical Toolkit
 
-## 🧠 LogicLens
+### Languages
 
-AI-powered programming reasoning system that helps students identify logical mistakes rather than simply showing compilation errors.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart" alt="Programming languages"/>
+</p>
 
-### Key Features
+### Frontend and Mobile
 
-* Reasoning Error Detection
-* Algorithm-to-Code Mapping
-* Execution Visualization
-* AI Learning Assistant
-* Personalized Feedback
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter" alt="Frontend and mobile technologies"/>
+</p>
 
----
+### Backend and Data
 
-## 🛡️ GitGuard AI
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,firebase,supabase" alt="Backend and database technologies"/>
+</p>
 
-AI-powered repository intelligence platform that analyzes repositories for maintainability, quality, and development risks.
+### Tools and Platforms
 
-### Stack
-
-React • Node.js • GitHub API • AI Analysis
-
----
-
-## 🧠 OpsMind AI
-
-Enterprise knowledge assistant powered by Retrieval-Augmented Generation (RAG).
-
-### Stack
-
-React • Node.js • MongoDB Atlas Vector Search • Gemini Embeddings
-
-🔗 https://opsmind-ai-wjwh.vercel.app/
-
----
-
-## 💸 Split-It
-
-Expense management platform simplifying group expenses and settlements.
-
-🔗 https://split-it-sigma.vercel.app/
-
----
-
-## 🛒 InsightCart
-
-AI-powered sentiment analysis platform that classifies Amazon customer reviews and compares Machine Learning with Deep Learning models.
-
-### Stack
-
-React • Streamlit • Python • TensorFlow • XGBoost • Random Forest • MLflow
-
-🔗 https://aicw-insightcart.streamlit.app/
-
----
-
-## 📊 StudyDash
-
-Student productivity dashboard for academic planning and progress tracking.
-
-🔗 https://studydash-one.vercel.app/
-
----
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,nodejs,express,mongodb,postgres,mysql,firebase,tailwind,django,fastapi,docker,git,github,figma,postman,tensorflow,pytorch,gcp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,tensorflow,pytorch,gcp" alt="Development tools"/>
 </p>
 
 ---
 
-# 🏆 Interests
+## 💭 What Interests Me
 
-* Artificial Intelligence
-* Generative AI
-* Full-Stack Development
-* Educational Technology
-* Accessibility Solutions
-* Developer Tools
-* Startup Building
-* Product Design
+![Applied AI](https://img.shields.io/badge/Applied_AI-7C3AED?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend_Engineering-06B6D4?style=for-the-badge)
+![Product Design](https://img.shields.io/badge/Product_Design-EC4899?style=for-the-badge)
+![Developer Tools](https://img.shields.io/badge/Developer_Tools-F59E0B?style=for-the-badge)
+![Human Centred Tech](https://img.shields.io/badge/Human--Centred_Tech-10B981?style=for-the-badge)
 
 ---
 
-# 📈 GitHub Analytics
-
-<!-- <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/nupoor-mahajan?template=classic&config.timezone=Asia%2FKolkata" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=nupoor-mahajan&theme=github-dark" />
-</p> -->
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupoor-mahajan&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nupoor-mahajan&theme=github_dark&utcOffset=5.5" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nupoor-mahajan&theme=tokyonight"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nupoor-mahajan&theme=tokyonight"
+    alt="Languages by repository"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="80%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nupoor-mahajan&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
 <p align="center">
-<img src="https://github.com/nupoor-mahajan/nupoor-mahajan/blob/output/github-contribution-grid-snake.svg" />
+  <b>Technology becomes meaningful when it is useful, thoughtful and enjoyable to use.</b>
 </p>
 
----
-
-## ✨ Developer Philosophy
-
-> Great products are built when technology, design, and empathy work together.
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:7C3AED&height=110&section=footer"
+    alt=""
+  />
 </p>
+
